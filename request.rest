@@ -4,3 +4,10 @@ Content-Type: application/json
 {
   "number": 3
 }
+###
+POST http://localhost:3000/calculator/2
+Content-Type: application/json
+
+{
+  "numbers": [2.12, 4.62, 1.32, 7.90]
+}
