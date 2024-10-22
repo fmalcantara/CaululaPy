@@ -20,3 +20,14 @@ ____
 - Por fim, é retirado o desvio padrão desses resultados e retornado o inverso desse valor (1/result) 
 
 > Dica: Utilize a Lib Numpy para calcular o desvio padrão. 
+
+____
+
+## Terceira Calculadora
+- N Numeros são colocados como entrada
+
+- Caso a variancia de todos esses numeros for menor que a multiplicação deles, é apresentado uma informação de sucesso ao usuário.
+
+- Caso contrario, é apresentado uma informação de falha. 
+
+> Dica: Para o calculo de variancia, utilize o método "var" da Lib Numpy. 
